@@ -4,6 +4,10 @@
 
 ## Make Video
 
+```
+mkYoutubeAudio.sh audio.mp3
+```
+
 ## Get audio stats
 
 from url 
